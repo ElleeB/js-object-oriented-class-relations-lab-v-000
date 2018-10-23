@@ -92,11 +92,3 @@ class Trip {
     )
   }
 }
-
-let driver1 = new Driver('laura')
-let passenger1 = new Passenger('ryan')
-let driver2 = new Driver('avery')
-let passenger2 = new Passenger('tiki')
-
-let trip1 = new Trip(driver1, passenger2)
-let trip2 = new Trip(driver2, passenger1)
